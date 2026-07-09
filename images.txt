@@ -7,3 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 mongo:7
 node:22-alpine
+n8nio/n8n:2.29.8
