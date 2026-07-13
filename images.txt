@@ -8,4 +8,8 @@ docker.n8n.io/n8nio/n8n:2.29.8
 n8nio/n8n:latest
 mysql:8.4
 postgres:16-alpine
+postgres:15-alpine
 redis:7.4-alpine
+emqx/emqx:5.8.4
+minio/minio:RELEASE.2025-01-20T14-49-07Z
+minio/mc:RELEASE.2025-01-17T23-25-50Z
