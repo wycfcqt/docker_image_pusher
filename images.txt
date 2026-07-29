@@ -15,7 +15,7 @@
 # minio/mc:RELEASE.2025-01-17T23-25-50Z
 # 以上已拉取
 # 2026-0729
-node:24-alpine
-mysql:8.0
-redis:6-alpine
+# node:24-alpine
+# mysql:8.0
+# redis:6-alpine
 # 2026-0729
