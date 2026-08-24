@@ -16,6 +16,7 @@
 # 以上已拉取
 # 2026-0729
 # node:24-alpine
+node:24-bookworm
 # mysql:8.0
 # redis:6-alpine
 # 2026-0729
